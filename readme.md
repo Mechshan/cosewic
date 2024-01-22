@@ -33,6 +33,6 @@ The application implements the Quicksort algorithm (as per Lomuto partition sche
 
 ## Images
 
-![image1](/images/img0.jpg)
+![image1](/images/img0.JPG)
 
-![image2](/images/img1.jpg)
+![image2](/images/img1.JPG)
